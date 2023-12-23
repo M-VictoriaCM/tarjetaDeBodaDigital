@@ -38,7 +38,7 @@
 }
 
 .portada {
-  background-image: url('/asset/img/7b426ec366.webp');
+  background-image: url('asset/img/7b426ec366.webp');
   /* Ajusta la ruta según tu estructura de carpetas */
   background-repeat: no-repeat;
   background-attachment: fixed;
