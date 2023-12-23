@@ -50,7 +50,7 @@ btnGoogleMapFiesta.addEventListener('click', function () {
 });
 /*-------------------------------------------------------------------------------------------------------*/
 let btnWhatsApp = document.getElementById('btnWhatsApp');
-let phoneNumber = '2983586371';  // Aca va el numero
+let phoneNumber = '2983579803';  // Aca va el numero
 
     btnWhatsApp.addEventListener('click', function () {
         var urlWhatsApp = 'https://wa.me/' + phoneNumber;
